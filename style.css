@@ -70,6 +70,19 @@ main {
     margin: 8px;
 }
 
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: 'apple font';
+    padding-top: 200px;
+    line-height: 27px;
+}
+
+span {
+    color: black;
+}
+
 @media  (max-width:999px) {
 
     body{
