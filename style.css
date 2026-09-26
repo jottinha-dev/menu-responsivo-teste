@@ -76,6 +76,13 @@ main {
         overflow-x: hidden;
     }
 
+    nav img.logo {
+        width: 70px;
+        aspect-ratio: 1/1;
+        object-fit: cover;
+        margin-left: 10px;
+
+    }
 
     .nav-list {
         position: absolute;
@@ -98,6 +105,7 @@ main {
 
     .mobile-menu {
         display: block;
+        margin-right: 40px;
     }
 
     .nav-list.active {
